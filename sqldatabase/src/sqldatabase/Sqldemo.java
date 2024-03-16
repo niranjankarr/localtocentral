@@ -1,0 +1,10 @@
+package sqldatabase;
+
+public class Sqldemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
